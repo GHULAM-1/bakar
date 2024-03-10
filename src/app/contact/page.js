@@ -1,7 +1,7 @@
 export default function () {
   return (
     <>
-      <h1>Contact Us</h1>
+      <h1>Contact Us from abuakar</h1>
     </>
   );
 }
